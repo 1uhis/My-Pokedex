@@ -1,0 +1,36 @@
+.speciesListItem {
+    display: flex; /* Use flexbox for layout */
+    border: 5px solid black; /* Pikachu yellow */
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #ffcc00; /* Light gray */
+    list-style: none; /* Remove default list-style */
+  }
+  
+  .speciesListItem img {
+    width: 150px; /* Make the image bigger */
+    height: 150px; /* Make the image bigger */
+    margin-right: 20px;
+    border-radius: 10px; /* Add border-radius to make it round */
+  }
+  
+  .speciesInfo {
+    flex-grow: 1; /* Allow the content to grow to fill available space */
+  }
+  
+  .speciesListItem h3 {
+    font-size: 1.5em;
+    color: black; /* Charcoal */
+    margin: 0 0 10px; /* Adjust margin */
+  }
+  
+  .speciesListItem em {
+    font-style: normal;
+    color: black /* Dark gray */
+  }
+  
+  .speciesListItem p {
+    color: black /* Medium gray */
+  }
+  
