@@ -35,7 +35,7 @@ A full-stack MERN web app that allows users to browse and search for Pokémon sp
 ### 🛠 Installation
 
 ```bash
-git clone https://github.com/yourusername/my-pokedex.git
+git clone https://github.com/1uhis/My-Pokedex.git
 cd my-pokedex
 
 # Install backend dependencies
